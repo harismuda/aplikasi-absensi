@@ -8,7 +8,7 @@
             <form method="POST" action="{{ url('laporan/guru') }}">
             {{ csrf_field() }}
             <div class="form-group">
-                <label for="cars">Pilih bulan:</label>
+                <label for="cars">Pilih bulan absen:</label>
                 <select class="form-control form-control-border" id="cars" name="bulan">
                     <option value="01">Januari</option>
                     <option value="02">Februari</option>
