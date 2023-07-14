@@ -7,7 +7,7 @@
               <div class="inner">
                 <h3>{{ count($guru) }}</h3>
 
-                <p>Table Guru</p>
+                <p>Data Guru</p>
               </div>
               <div class="icon">
                 <i class="ion ion-person-add"></i>
@@ -20,7 +20,7 @@
               <div class="inner">
                 <h3>{{ count($siswa) }}</h3>
 
-                <p>Table Siswa</p>
+                <p>Data Siswa</p>
               </div>
               <div class="icon">
                 <i class="ion ion-person-add"></i>
