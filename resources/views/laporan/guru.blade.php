@@ -15,7 +15,7 @@
                         @endphp
                         <thead>
                             <tr>
-                                <th>Nama guru</th>
+                                <th>Nama Tes</th>
                                 @for ($x = 1; $x <= $jumlah; $x++) 
                                 <th>{{ $x }}</th>
                                 @endfor
